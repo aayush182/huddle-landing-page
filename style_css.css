@@ -20,7 +20,7 @@ footer {
 .bg_2 {
     margin: 0;
     position: absolute;
-    width: 95%;
+    width: 92%;
     top: 0;
     height: 100%;
 }
@@ -28,7 +28,7 @@ footer {
 .bg_3 {
     position: absolute;
     top: 25vh;
-    width: 48vw;
+    width: 49vw;
     height: 64vh;
     margin-left: 4.5%;
 }
