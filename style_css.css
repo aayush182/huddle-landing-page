@@ -38,7 +38,7 @@ footer {
     float: right;
     margin-top: 25.11vh;
     padding: 0;
-    margin-right: 7.5vw;
+    margin-right: 7vw;
 }
 
 .content h2 {
@@ -53,7 +53,6 @@ footer {
 .content p {
     color: white;
     font-family: 'Open Sans', sans-serif;
-    margin-right: 15px;
 }
 
 .button {
