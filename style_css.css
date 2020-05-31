@@ -43,8 +43,8 @@ footer {
 }
 
 .content h2 {
-    font-size: 30px;
-    margin-right:85px;
+    font-size: 25px;
+    margin-right: 14.64vw;
     line-height: 50px;
     font-family: 'Poppins', sans-serif;
     color: white;
@@ -54,6 +54,8 @@ footer {
 .content p {
     color: white;
     font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    margin-right: 7.32vw;
 }
 
 .button {
